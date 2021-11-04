@@ -1,4 +1,4 @@
-# Dashboard---Tableau
+# Dashboard -Tableau
 Dashboard / Tableau / Marketing
 
 Create a dashboard for a marketing department using Tableau Pubic
