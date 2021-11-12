@@ -1,6 +1,8 @@
 # Dashboard -Tableau
 Dashboard / Tableau / Marketing
 
+NB : you need to login to your Tableau Public account to access the dashboards. If you don't have one, you can have a look at the pdf files available in the repository.
+
 Create an executive dashboard with maps using Tableau Public : 
 
 https://public.tableau.com/app/profile/vantyghem/viz/Profitabilityandsalesdashboard/executivedashboard_1
